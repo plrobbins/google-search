@@ -9,4 +9,4 @@ This is a React-based Google Books Search app that a users can use to search for
 * Node.js
 
 ## Screenshot of the App
-![Google Search]()
+![Google Search](https://github.com/plrobbins/google-search/blob/main/public/Images/Google%20Search.png)
